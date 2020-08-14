@@ -10,6 +10,26 @@ Create a React app that lets a user search the Giphy API for gifs.
 - [Giphy Developer Portal](https://developers.giphy.com/)
 - [Giphy Search Endpoint](https://developers.giphy.com/docs/api/endpoint#search)
 
+## Getting Started - API Key
+
+Giphy requires an API key. Let's get one.
+
+- Goto to the [Giphy Developer Portal](https://developers.giphy.com/) and sign up/login. Once you're logged in, click on the "Create an App" button in the top right.
+
+![](https://i.imgur.com/qPkOJor.png)
+
+- Fill in App details like this screenshot.
+
+![](https://i.imgur.com/YBrbg9I.png)
+
+- You should now have an API key for your app.
+
+![](https://i.imgur.com/n16AN89.png)
+
+- Select API
+
+![](https://i.imgur.com/DyJFgdw.png)
+
   
 ## Requirements
 - Create a new app in your homework folder using `create-react-app`.
