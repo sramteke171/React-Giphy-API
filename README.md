@@ -24,19 +24,19 @@ Giphy requires an API key. Let's get one.
 
 1. Goto to the [Giphy Developer Portal](https://developers.giphy.com/) and sign up/login. Once you're logged in, click on the "Create an App" button in the top right.
 
-  ![](https://i.imgur.com/qPkOJor.png)
+    ![](https://i.imgur.com/qPkOJor.png)
 
 1. Fill in App details like this screenshot.
 
-  ![](https://i.imgur.com/YBrbg9I.png)
+    ![](https://i.imgur.com/YBrbg9I.png)
 
 1. Select API
 
-  ![](https://i.imgur.com/DyJFgdw.png)
+    ![](https://i.imgur.com/DyJFgdw.png)
 
 1. You should now have an API key for your app.
 
-  ![api|200x200](https://i.imgur.com/n16AN89.png)
+    ![api|200x200, 20%](https://i.imgur.com/n16AN89.png)
 
 
 <br>
