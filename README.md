@@ -7,8 +7,16 @@
 
 Create a React app that lets a user search the Giphy API for gifs.
 
+- [Solution App Link](https://pages.git.generalassemb.ly/marcwright-rem/js-axios-ajax-giphy-lab/)
 - [Giphy Developer Portal](https://developers.giphy.com/)
 - [Giphy Search Endpoint](https://developers.giphy.com/docs/api/endpoint#search)
+
+![](https://i.imgur.com/srleqYB.png)
+
+![](https://i.imgur.com/sKjOsR3.png)
+
+
+<br>
 
 ## Getting Started - API Key
 
@@ -40,6 +48,9 @@ Giphy requires an API key. Let's get one.
 ## Bonus
 - Style it somehow. Maybe just add your style in `App.css` or Google "CSS with React" and try a couple approaches and find an approach you like. It should look nice. :wink:
 - Add a button that will return a single, random gif. Here is the [Random Gif endpoint Documentation](https://developers.giphy.com/docs/api/endpoint#random).
+
+
+![](https://i.imgur.com/MThUWe8.png)
 
   
 
