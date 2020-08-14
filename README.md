@@ -13,7 +13,7 @@ Create a React app that lets a user search the Giphy API for gifs.
 
 
 
-![](https://i.imgur.com/sKjOsR3.png =250x)
+![](https://i.imgur.com/sKjOsR3.png)
 
 
 <br>
