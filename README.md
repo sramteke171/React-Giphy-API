@@ -11,7 +11,7 @@ Create a React app that lets a user search the Giphy API for gifs.
 - [Giphy Developer Portal](https://developers.giphy.com/)
 - [Giphy Search Endpoint](https://developers.giphy.com/docs/api/endpoint#search)
 
-![](https://i.imgur.com/srleqYB.png)
+
 
 ![](https://i.imgur.com/sKjOsR3.png)
 
@@ -38,21 +38,26 @@ Giphy requires an API key. Let's get one.
 
 ![](https://i.imgur.com/DyJFgdw.png)
 
-  
+
+<br>
+
 ## Requirements
 - Create a new app in your homework folder using `create-react-app`.
 - Your app should have a search bar and a button. 
 - When the user presses "Enter" or click the button, the search should be executed and display the results of the search.
 
-  
+<br>
+
 ## Bonus
 - Style it somehow. Maybe just add your style in `App.css` or Google "CSS with React" and try a couple approaches and find an approach you like. It should look nice. :wink:
 - Add a button that will return a single, random gif. Here is the [Random Gif endpoint Documentation](https://developers.giphy.com/docs/api/endpoint#random).
 
 
 ![](https://i.imgur.com/MThUWe8.png)
+ 
 
-  
+<br>
+
 
 ## Hungry for More?  
 
@@ -75,6 +80,7 @@ Giphy requires an API key. Let's get one.
 <br />
 
   
+<br>
 
 ## Hungry for WAY More?
 
