@@ -36,7 +36,7 @@ Giphy requires an API key. Let's get one.
 
 1. You should now have an API key for your app.
 
-  ![](https://i.imgur.com/n16AN89.png =150x100)
+  ![api|200x200](https://i.imgur.com/n16AN89.png)
 
 
 <br>
